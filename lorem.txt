@@ -1,1 +1,1 @@
-Content no 1
+Another content to check the merging conflict
