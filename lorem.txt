@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 Another content to check the merging conflict
+=======
+This is the lorem data to check the working of file...
+content no 2 for very-bad branch
+>>>>>>> very-bad
