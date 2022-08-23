@@ -1,1 +1,2 @@
 This is issue file to check the merging tool
+now the value is changed again to get conflict message
