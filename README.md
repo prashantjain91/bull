@@ -1,3 +1,3 @@
 Bull Project
 
-This is the sample file to check the working of readme file
+Another content to check the merging conflict
